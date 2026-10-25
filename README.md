@@ -33,6 +33,7 @@ Estudiante de Diseño y Desarrollo de Software en Tecsup.
 
 - [Guia oficial de Markdown](https://www.markdownguide.org/)
 - [Mi perfil de GitHub](https://github.com/victor-villalva)
+- [Guía del proyecto](docs/GUIA.md)
 
 ## Captura de mi trabajo
 
